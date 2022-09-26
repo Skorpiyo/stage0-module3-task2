@@ -10,6 +10,5 @@ public class JavaVariableNames {
         int sharp = 100000;
         int star = 1000000;
         int star_one = 1000000;
-
     }
 }
